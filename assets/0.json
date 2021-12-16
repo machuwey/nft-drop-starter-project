@@ -1,0 +1,19 @@
+{
+    "name": "BlueCloud",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "ER4733DwrFvoeaEvpmsqhGzA3v9Bwgnm4Kb7b2mdzeTh",
+          "share": 100
+        }
+      ]
+    }
+  }
